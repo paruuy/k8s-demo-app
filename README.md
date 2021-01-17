@@ -1,5 +1,8 @@
 # Getting Started
 
+Create a basic Spring Boot app using Docker and Kubernetes
+
+
 ## Prerequisites
 * JDK 8 or higher (Please ensure you have a JDK installed and not just a JRE)
 * [Docker](https://docs.docker.com/install/) installed
